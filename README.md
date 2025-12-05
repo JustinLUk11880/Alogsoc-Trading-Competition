@@ -2,7 +2,7 @@
 
 Perform mean reversion stragegy
 using 
-  z-values
-  regime
-  partial profit
-  cut-loss
+-z-values
+-regime
+-partial profit
+-cut-loss
